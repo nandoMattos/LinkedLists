@@ -1,5 +1,5 @@
 # LinkedLists :jigsaw:
-### _C algorithm to create and modify linked lists
+### _C algorithm to create and modify linked lists_
 This is a refactored project I developed as a requirement at college. As expected from a C algorithm-only, it's just a black terminal screen showing a bunch numbers and basic instructions. The application features basic manipulations in linked lists, including basic insertion, ascending order insertion, remove element, print list and split list.
 
 #### Doubly linked list:
